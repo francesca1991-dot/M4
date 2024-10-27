@@ -1,0 +1,10 @@
+.product-item{
+    border: 1px solid rgb(59, 59, 63);
+}
+.product-item img{
+    width: 100px;
+height: 100px;
+}
+body{
+    background-color: rgb(175, 210, 234);
+}

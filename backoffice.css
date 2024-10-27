@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(175, 210, 234);
+}
+h1{
+    color: beige;
+}
+h2{
+    color: beige;
+}
+label{
+    font-weight: bold;
+    color:rgb(96, 100, 99);
+}
+button{
+    color:white;
+    background-color: rgb(72, 74, 73);
+    border-radius: 10px;
+   box-shadow: 0 4px 8px rgba(215, 206, 206, 0.3);  
+   transition: box-shadow 0.3s; /* Aggiunge una transizione per l'effetto hover */
+}
+
+button:hover{
+box-shadow: 0 10px 15px rgba(255, 255, 255, 0.974); /* Effetto box-shadow */    
+} 
+.elimina-btn{
+    background-color: rgb(128, 115, 115);
+}
